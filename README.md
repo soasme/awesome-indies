@@ -193,6 +193,8 @@ A curated list of free and paid tools to build, launch, and grow your project.
 Don't ignore the boring stuff.
 
 -   **[Stripe Atlas](https://stripe.com/atlas)** - [Paid] A straightforward way to form a C-Corp or LLC in Delaware, USA.
+
+-   **[LLC Class](https://llcclass.com/wyoming)** - [Paid] Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — ready to connect Stripe and Mercury without Stripe Atlas's $500 fee.
     
 -   **[Clerky](https://www.clerky.com/)** - [Paid] Helps startups get legal paperwork done safely. More for venture-backed, but useful.
     
