@@ -170,6 +170,9 @@ A curated list of free and paid tools to build, launch, and grow your project.
 -   **[Ubersuggest](https://neilpatel.com/ubersuggest/)** - [Freemium] A more affordable SEO tool from Neil Patel.
     
 
+-   **[KupitSledovatelov.sk Content Planner](https://kupitsledovatelov.sk/resources/sk/content-planner.xlsx)** - [Free] Slovak XLSX with 30 editable rows to plan social-content topics, formats, dates and result reviews for a small venture.
+    
+
 #### Design
 
 -   **[Figma](https://www.figma.com/)** - [Freemium] The industry standard for UI/UX design. The free tier is fantastic.
