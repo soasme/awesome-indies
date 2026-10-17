@@ -145,6 +145,8 @@ A curated list of free and paid tools to build, launch, and grow your project.
     
 -   **[Lemon Squeezy](https://www.lemonsqueezy.com/)** - [Paid] Another popular Merchant of Record, especially for digital products and SaaS.
     
+-   **[AgentaOS](https://agentaos.ai/)** - [Paid] Merchant of Record for SaaS, digital products and services, with payouts to 85+ countries, including many where Stripe is not available.
+    
 
 #### Analytics
 
