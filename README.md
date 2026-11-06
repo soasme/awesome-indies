@@ -181,6 +181,12 @@ A curated list of free and paid tools to build, launch, and grow your project.
 
 #### Utilities & Automation
 
+-   **[AutoClicker Studio](https://apps.microsoft.com/detail/9ntt3g455p5x?hl=en-US)** - [Paid] Windows mouse-and-keyboard routines with scheduling for permitted repetitive office workflows.
+
+-   **[Hotkey Inserter](https://apps.microsoft.com/detail/9n7k2d2r0cqb?hl=en-US)** - [Paid] Windows text snippets with individual global shortcuts for reusable replies; insertion replaces the clipboard contents.
+
+-   **[Smart Files Renamer](https://apps.microsoft.com/detail/9p8blrsmpcq0?hl=en-US)** - [Paid] Windows batch file renaming with previews, naming templates, and last-batch undo for unchanged files when previous names are free.
+
 -   **[Zapier](https://zapier.com/)** - [Freemium] Connect your apps and automate workflows. The industry standard for automation.
     
 -   **[Make](https://www.make.com/)** (formerly Integromat) - [Freemium] A powerful Zapier alternative, often more flexible and affordable.
