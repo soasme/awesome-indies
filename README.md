@@ -172,6 +172,8 @@ A curated list of free and paid tools to build, launch, and grow your project.
 
 #### Design
 
+-   **[Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant)** - [Free] Script-header and body-font pairing guidance for design projects; paid fonts and workbooks are separate.
+
 -   **[Figma](https://www.figma.com/)** - [Freemium] The industry standard for UI/UX design. The free tier is fantastic.
     
 -   **[Canva](https://www.canva.com/)** - [Freemium] Incredibly easy-to-use design tool for social media graphics, ads, and other marketing assets.
